@@ -104,6 +104,5 @@ dependencies {
     //noinspection GradleDynamicVersion
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.facebook.react:react-native:+'
-    implementation 'com.intellij:annotations:+@jar'
     compile 'org.altbeacon:android-beacon-library:2.16.1'
 }
