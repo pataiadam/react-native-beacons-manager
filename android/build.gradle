@@ -105,4 +105,5 @@ dependencies {
     compile 'com.facebook.react:react-native:+'
     implementation 'org.jetbrains:annotations:16.0.2'
     compile 'org.altbeacon:android-beacon-library:2.16.1'
+    compile 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
 }
